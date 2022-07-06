@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+
+    background-color: crimson;
+    height: 100px;
+    overflow: hidden;
+
+}
+
+.logo {
+
+    width: 20%;
+    height: 100px;
+    background-color:darksalmon;
+    color: white;
+    float: left;
+    text-align: center;
+}
+
+.menu {
+    width: 80%;
+    height: 100px;
+    background-color:crimson;
+    color: white;
+    float: right;
+    text-align: center;
+
+}
+
+.header_bar {
+    height: 200px;
+    background-color:rgb(119, 57, 212);
+    text-align: center;
+    color: white;
+
+}
+.article {
+    overflow: hidden;
+
+}
+
+.left {
+
+    width: 20%;
+    height: 500px;
+    background-color:darkorange;
+    float: left;
+    text-align: center;
+    color: white;
+
+}
+
+.center {
+
+    width: 60%;
+    height: 500px;
+    overflow: hidden;
+    float: left;
+
+}
+
+.right {
+
+    width: 20%;
+    height: 500px;
+    background-color: forestgreen;
+    float: left;
+    text-align: center;
+    color: white;
+
+}
+
+.center_top {
+    height: 30%;
+    overflow: hidden;
+}
+.center_top_upper{
+        height: 50%;
+        background-color:rgb(238, 255, 0);
+        text-align: center;
+        color: rgb(0, 0, 0);
+}
+.center_top_lower{
+    height: 50%;
+    background-color:blue;
+    text-align: center;
+    color: white;
+}
+
+
+.center_middle {
+    height: 40%;
+    background-color:goldenrod;
+    overflow: hidden;
+    text-align: center;
+    color: white;
+    
+}
+
+.center_bottom {
+    height: 30%;
+    overflow: hidden;
+   
+    
+}
+.center_bottom_upper{
+    height: 50%;
+    background-color:rgb(0, 110, 255);
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.center_bottom_lower{
+height: 50%;
+background-color:rgb(146, 6, 90);
+text-align: center;
+color: white;
+}
+
+.middle_left {
+    width: 50%;
+    float: left;
+    background-color: aqua;
+    height: 100%;
+    text-align: center;
+    color: white;
+
+}
+
+.middle_right {
+    width: 50%;
+    float: right;
+    background-color:coral;
+    height: 100%;
+    text-align: center;
+    color: white;
+
+
+}
+
+.footer {
+
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 150px;
+}
